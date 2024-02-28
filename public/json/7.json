@@ -1,0 +1,79 @@
+{
+    "name": "Shubham Raskar",
+    "email": "ishubhamraskar@gmail.com",
+    "phone": "+91 9404665263",
+    "skills": [
+        "Operating systems",
+        "Procurement",
+        "Sap",
+        "Windows",
+        "Process",
+        "Excel",
+        "Powerpoint",
+        "Engineering",
+        "Training",
+        "Purchasing",
+        "Technical",
+        "Mechanical engineering",
+        "Scheduling",
+        "Word",
+        "Email",
+        "Communication",
+        "Erp",
+        "Pr",
+        "Pharmaceutical",
+        "Sales",
+        "Os",
+        "Testing",
+        "Inventory"
+    ],
+    "education": [
+        {
+            "name": "Pune University",
+            "dates": ["January 2014", "January 2018"],
+            "date_start": "January 2014",
+            "date_end": "January 2018"
+        },
+        {
+            "name": "Savitribai Phule Pune University",
+            "dates": ["January 2014", "January 2018"],
+            "date_start": "January 2014",
+            "date_end": "January 2018"
+        }
+    ],
+    "experience": [
+        {
+            "title": "SAP Consultant",
+            "location": "Pune",
+            "organization": "SAP"
+        },
+        {
+            "title": "Service Engineer",
+            "dates": ["February 2002", "February 2002"],
+            "date_start": "February 2002",
+            "date_end": "February 2002",
+            "location": "Pune",
+            "organization": "Excl Industrial Product Pvt Ltd"
+        },
+        {
+            "title": "Senior Analyst",
+            "dates": ["February 2002"],
+            "location": "Pune",
+            "organization": "PO"
+        },
+        {
+            "title": "Service Engineer",
+            "dates": ["February 2001", "February 2002"],
+            "date_start": "February 2001",
+            "date_end": "February 2002",
+            "location": "Pune",
+            "organization": "Proof Engineering"
+        },
+        {
+            "title": "Mechanical Engineer",
+            "dates": ["January 2014"],
+            "location": "Pune",
+            "organization": "Mechanical Engineering"
+        }
+    ]
+}

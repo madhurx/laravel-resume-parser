@@ -1,0 +1,54 @@
+{
+    "name": "Shubham B. Barshe",
+    "address": "Marunji, Pune 411057",
+    "email": "Shubhambarse18@gmail.com",
+    "phone": "8668854877",
+    "skills": [
+        "Inventory management",
+        "Technical skills",
+        "Email",
+        "Transactions",
+        "Engineering",
+        "Sap",
+        "English",
+        "Technical",
+        "Erp",
+        "Inventory"
+    ],
+    "education": [
+        {
+            "name": "Gulabrao Deokar College Of Polytechnic",
+            "dates": ["November 1996"]
+        },
+        {
+            "name": "Jalgaon N.M.U University",
+            "dates": ["July 1998", "January 2018", "January 2022"]
+        },
+        {
+            "name": "Shri.Gulabrao Deokar College Of Polytechnic",
+            "dates": ["November 1996"]
+        },
+        {
+            "name": "Shri.Gulabrao Deokar College Of Engineering",
+            "dates": ["July 1998", "January 2022"],
+            "date_start": "July 1998",
+            "date_end": "January 2022"
+        },
+        {
+            "name": "Gulabrao Deokar College Of Engineering",
+            "dates": ["July 1998", "January 2022"],
+            "date_start": "July 1998",
+            "date_end": "January 2022"
+        },
+        {
+            "name": "N.M.U University",
+            "dates": ["July 1998", "January 2018", "January 2022"]
+        }
+    ],
+    "experience": [
+        {
+            "title": "Material Man",
+            "organization": "PO"
+        }
+    ]
+}

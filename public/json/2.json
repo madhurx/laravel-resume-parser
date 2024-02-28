@@ -1,0 +1,39 @@
+{
+    "name": "MUKESH MISHRA",
+    "email": "mmukesh914@gmail.com",
+    "phone": "+91 8928810890",
+    "skills": [
+        "Reports",
+        "R",
+        "Audit",
+        "P",
+        "Reconciliation",
+        "Health",
+        "Sap",
+        "Finance",
+        "Consulting",
+        "Test cases",
+        "Accounting",
+        "General ledger",
+        "Auditing"
+    ],
+    "education": [
+        {
+            "name": "Mumbai University",
+            "dates": ["November 2021"]
+        }
+    ],
+    "experience": [
+        {
+            "title": "Finance Executive",
+            "dates": ["June 2018", "March 2022"],
+            "date_start": "June 2018",
+            "date_end": "March 2022",
+            "organization": "FI"
+        },
+        {
+            "title": "CTO",
+            "organization": "SERVICE SECTOR INDUSTRY"
+        }
+    ]
+}

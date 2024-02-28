@@ -1,0 +1,61 @@
+{
+    "name": "Siddharth Rajurkar",
+    "email": "Siddharth.raj0305@gmail.com",
+    "phone": "7566237505",
+    "skills": [
+        "Process",
+        "Excel",
+        "Powerpoint",
+        "Sap",
+        "Banking",
+        "Acquisition",
+        "English",
+        "Microsoft office suite",
+        "Erp",
+        "C",
+        "Certification",
+        "Accounting"
+    ],
+    "education": [
+        { "name": "CBSE Mansarovar Public School" },
+        {
+            "name": "Barkatullah University",
+            "dates": [
+                "January 2013",
+                "January 2014",
+                "January 2015",
+                "January 2016",
+                "January 2016",
+                "January 2019"
+            ]
+        },
+        {
+            "name": "Course University",
+            "dates": [
+                "January 2013",
+                "January 2015",
+                "January 2016",
+                "January 2016",
+                "January 2019"
+            ]
+        },
+        { "name": "Bhopal School of Social Sciences" },
+        { "name": "Mansarovar Public School" }
+    ],
+    "experience": [
+        {
+            "title": "Associate",
+            "location": "Focus Areas",
+            "organization": "SAP"
+        },
+        {
+            "title": "Associate",
+            "location": "Ahmedabad",
+            "organization": "Tata Consultancy Services"
+        },
+        {
+            "title": "Associate",
+            "organization": "JOB SUMMARY"
+        }
+    ]
+}

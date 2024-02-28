@@ -1,0 +1,92 @@
+{
+    "name": "Bryan Ehlers",
+    "email": "bryan-ehlers@uiowa.edu",
+    "phone": "(507)-403-1634",
+    "skills": [
+        "Electrical engineering",
+        "Algorithms",
+        "Electrical",
+        "Computer science",
+        "Operating systems",
+        "Linux",
+        "Research",
+        "Robot",
+        "Design",
+        "Engineering",
+        "Access",
+        "Unix",
+        "Windows",
+        "C",
+        "Python",
+        "Electronics",
+        "C++",
+        "Programming"
+    ],
+    "education": [
+        {
+            "name": "University of Iowa Carver College of Medicine",
+            "dates": ["February 2014", "March 2015"],
+            "date_start": "February 2014",
+            "date_end": "March 2015"
+        },
+        {
+            "name": "Carver College of Medicine",
+            "dates": ["February 2014", "March 2015"],
+            "date_start": "February 2014",
+            "date_end": "March 2015"
+        },
+        {
+            "name": "Institute of Electrical and Electronic Engineers",
+            "dates": ["January 2013"]
+        },
+        {
+            "name": "University of Iowa Powerlifting Club Treasurer",
+            "dates": ["January 2013", "January 2014"],
+            "date_start": "January 2013",
+            "date_end": "January 2014"
+        },
+        {
+            "name": "University of Iowa Powerlifting Club",
+            "dates": ["January 2013"],
+            "date_start": "January 2013",
+            "date_end": "January 2013"
+        },
+        {
+            "name": "University of Iowa",
+            "dates": ["March 1941"]
+        }
+    ],
+    "experience": [
+        {
+            "title": "Electrical Engineer",
+            "dates": ["March 1941"],
+            "location": "Iowa City",
+            "organization": "Electrical Engineering"
+        },
+        {
+            "title": "Research Assistant",
+            "dates": ["February 2014", "March 2015"],
+            "date_start": "February 2014",
+            "date_end": "March 2015",
+            "location": "Iowa City",
+            "organization": "University of Iowa Carver College of Medicine"
+        },
+        {
+            "title": "Associate",
+            "organization": "Kmart"
+        },
+        {
+            "title": "Processing Engineer",
+            "organization": "NanoMedTrix, LLC"
+        },
+        {
+            "title": "Electrical Engineer",
+            "location": "Iowa City",
+            "organization": "Circuit Lab"
+        },
+        {
+            "title": "Image Processing Engineer",
+            "organization": "NanoMedTrix LLC — Coralville IA"
+        }
+    ]
+}

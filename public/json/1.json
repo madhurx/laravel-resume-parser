@@ -1,0 +1,49 @@
+{
+    "name": "",
+    "address": "Nagpur road, Wardha (MH),442001",
+    "email": "tale.shubham8@gmail.com",
+    "phone": "+91-8698434063",
+    "skills": [
+        "Process",
+        "Mobile",
+        "Strategy",
+        "Scheduling",
+        "Inventory",
+        "Procurement",
+        "Email",
+        "Engineering",
+        "Sap",
+        "Purchasing",
+        "Routing",
+        "Technical",
+        "Pr",
+        "Certification",
+        "Sourcing"
+    ],
+    "education": [
+        {
+            "name": "Deshmukh College of Engineering",
+            "dates": ["January 1986"]
+        },
+        {
+            "name": "Bapurao Deshmukh College of Engineering",
+            "dates": ["January 1986"]
+        }
+    ],
+    "experience": [
+        {
+            "title": "Associate",
+            "dates": ["January 2022"],
+            "location": "Pune",
+            "organization": "Client Metamorphosis Engitech India Pvt Ltd"
+        },
+        {
+            "title": "Associate",
+            "organization": "SHUBHAM TALE"
+        },
+        {
+            "title": "Associate",
+            "organization": "CERTIFICATION"
+        }
+    ]
+}
